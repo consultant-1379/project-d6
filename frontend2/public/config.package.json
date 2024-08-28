@@ -1,0 +1,16 @@
+{
+  "modules": [
+    {
+      "name": "settings-panel",
+      "version": "1.0.0",
+      "path": "/src/panels",
+      "main": "settings-panel.js"
+    },
+    {
+      "name": "retro-tool",
+      "version": "1.0.0",
+      "path": "/src/apps/retro-tool",
+      "main": "retro-tool.js"
+    }
+  ]
+}

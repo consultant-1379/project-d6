@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "name": "retro-tool",
+      "module": "retro-tool",
+      "displayName": "retro-tool",
+      "type": "euisdk",
+      "route": "retro-tool"
+    }
+  ],
+  "components": [
+    {
+      "name": "system-profile",
+      "module": "profile",
+      "version": "1.0.0"
+    }
+  ]
+}

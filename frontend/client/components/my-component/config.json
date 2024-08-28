@@ -1,0 +1,8 @@
+{
+  "script":"my-component/MyComponent",
+  "id":"MyComponent",
+  "data": {},
+  "dependencies":{
+    "@eui/lit-component":"0.12.x"
+  }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/frontend.iml" filepath="$PROJECT_DIR$/frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/new fresh repo.iml" filepath="$PROJECT_DIR$/.idea/new fresh repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrospective-tool/retrospective-tool.iml" filepath="$PROJECT_DIR$/retrospective-tool/retrospective-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrospective-tool/retrospective-tool (1).iml" filepath="$PROJECT_DIR$/retrospective-tool/retrospective-tool (1).iml" />
+    </modules>
+  </component>
+</project>
